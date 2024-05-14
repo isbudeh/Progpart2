@@ -1,0 +1,1 @@
+ git commit -m "Add method to set ingredient calorie value relative to user input (e.g. user enters a weight and calories per unit)."
