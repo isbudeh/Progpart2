@@ -1,0 +1,8 @@
+This code is a console application that provides users with a program to create, manage, and display information about recipes, including ingredients, steps, and nutritional information. The core of the application is a class called `RecipeBook`, which stores a list of recipes, and is the starting point for the user's interaction with the application. The `Recipe` class acts as a container for the recipe's details, containing a list of ingredients, a list of steps, a name, and a factor to scale the recipe's quantities.
+
+The `Ingredient` class contains properties for the ingredient's name, quantity, and unit of measurement, and optionally, the number of calories and food group. The `Step` class is used to represent the individual steps of a recipe, including the description of the step. The `Recipe` class provides methods for adding and editing ingredients, steps, scaling recipe quantities, and resetting the recipe quantities.
+
+ The user interface is simple and easy-to-use, allowing users to navigate through the various functions of the recipe book, such as adding, displaying, and deleting recipes. The program also provides feedback to the user, such as a warning message when a recipe's ingredients exceed 300 calories.
+
+The capability to add custom ingredients, steps, scalable quantities, and nutritional information, the user has great flexibility and control over the recipe's information, making it a valuable tool for cooking enthusiasts. Overall, this code is a simple and intuitive recipe book application, providing an efficient and easy-to-use interface for managing and displaying recipes, ingredient information, and cooking steps.
+
