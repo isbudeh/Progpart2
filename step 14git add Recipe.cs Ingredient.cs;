@@ -1,0 +1,1 @@
+git commit -m "Add ScaleFactor property to Recipe class and Scale() method to Ingredient class."
