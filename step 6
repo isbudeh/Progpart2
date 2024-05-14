@@ -1,0 +1,1 @@
+git commit -m "Add method to reset ingredient quantities to original values and remove scaleFactor from Recipe class."
